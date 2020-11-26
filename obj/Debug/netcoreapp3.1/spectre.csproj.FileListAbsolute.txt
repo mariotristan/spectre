@@ -1,0 +1,16 @@
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/spectre
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/spectre.deps.json
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/spectre.runtimeconfig.json
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/spectre.runtimeconfig.dev.json
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/spectre.dll
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/spectre.pdb
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/Spectre.Console.dll
+/home/mario/code/spectre/bin/Debug/netcoreapp3.1/Wcwidth.dll
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.csprojAssemblyReference.cache
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.AssemblyInfoInputs.cache
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.AssemblyInfo.cs
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.csproj.CoreCompileInputs.cache
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.csproj.CopyComplete
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.dll
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.pdb
+/home/mario/code/spectre/obj/Debug/netcoreapp3.1/spectre.genruntimeconfig.cache

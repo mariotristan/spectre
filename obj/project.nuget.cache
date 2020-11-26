@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ektAsS4bTLn0uIRiMR/aTqSB+Nvjjr5psHeMF9CUa4dGiMbPRKpz6Vxtt5G7Xm+Z/+b4kSQ/43CWX1zXAw/ESA==",
+  "success": true,
+  "projectFilePath": "/home/mario/code/spectre/spectre.csproj",
+  "expectedPackageFiles": [
+    "/home/mario/.nuget/packages/spectre.console/0.31.0/spectre.console.0.31.0.nupkg.sha512",
+    "/home/mario/.nuget/packages/wcwidth/0.2.0/wcwidth.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

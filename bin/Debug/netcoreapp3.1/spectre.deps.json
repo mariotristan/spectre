@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "spectre/1.0.0": {
+        "dependencies": {
+          "Spectre.Console": "0.31.0"
+        },
+        "runtime": {
+          "spectre.dll": {}
+        }
+      },
+      "Spectre.Console/0.31.0": {
+        "dependencies": {
+          "Wcwidth": "0.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.31.0.0"
+          }
+        }
+      },
+      "Wcwidth/0.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Wcwidth.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "spectre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spectre.Console/0.31.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qySttN8UOV10tFgBBBeSURKDqobb3Y5mkbQXF1merJnvy1piozwo3iqPguo+widN2a+bQSpnQeE49mt50Fqokg==",
+      "path": "spectre.console/0.31.0",
+      "hashPath": "spectre.console.0.31.0.nupkg.sha512"
+    },
+    "Wcwidth/0.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H7no2W0vuLJTvSPanlrijtG3UdJNVoeWBOp2a5dJFVa2tqSQuP5GfbJw1xAtPG9agRW310nFTUUsyPz5tuVIxw==",
+      "path": "wcwidth/0.2.0",
+      "hashPath": "wcwidth.0.2.0.nupkg.sha512"
+    }
+  }
+}

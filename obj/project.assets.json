@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Spectre.Console/0.31.0": {
+        "type": "package",
+        "dependencies": {
+          "Wcwidth": "0.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Spectre.Console.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Spectre.Console.dll": {}
+        }
+      },
+      "Wcwidth/0.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Wcwidth.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Wcwidth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spectre.Console/0.31.0": {
+      "sha512": "qySttN8UOV10tFgBBBeSURKDqobb3Y5mkbQXF1merJnvy1piozwo3iqPguo+widN2a+bQSpnQeE49mt50Fqokg==",
+      "type": "package",
+      "path": "spectre.console/0.31.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/Spectre.Console.dll",
+        "lib/net5.0/Spectre.Console.xml",
+        "lib/netstandard2.0/Spectre.Console.dll",
+        "lib/netstandard2.0/Spectre.Console.xml",
+        "small-logo.png",
+        "spectre.console.0.31.0.nupkg.sha512",
+        "spectre.console.nuspec"
+      ]
+    },
+    "Wcwidth/0.2.0": {
+      "sha512": "H7no2W0vuLJTvSPanlrijtG3UdJNVoeWBOp2a5dJFVa2tqSQuP5GfbJw1xAtPG9agRW310nFTUUsyPz5tuVIxw==",
+      "type": "package",
+      "path": "wcwidth/0.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Wcwidth.dll",
+        "lib/netstandard2.0/Wcwidth.xml",
+        "wcwidth.0.2.0.nupkg.sha512",
+        "wcwidth.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Spectre.Console >= 0.31.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/mario/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/mario/code/spectre/spectre.csproj",
+      "projectName": "spectre",
+      "projectPath": "/home/mario/code/spectre/spectre.csproj",
+      "packagesPath": "/home/mario/.nuget/packages/",
+      "outputPath": "/home/mario/code/spectre/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/mario/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Spectre.Console": {
+            "target": "Package",
+            "version": "[0.31.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.404/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
